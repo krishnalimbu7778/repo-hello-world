@@ -1,1 +1,1 @@
-Commit 7 - Keep learning
+Commit 8 - Updating README
